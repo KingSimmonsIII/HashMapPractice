@@ -1,2 +1,2 @@
 # HashMapPractice
-Learning to use HashMaps
+Learning to use HashMaps in Java
