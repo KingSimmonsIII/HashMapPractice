@@ -1,3 +1,5 @@
+//First of many more topics
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -32,7 +34,7 @@ public class HashMaps {
 		//Let's print again and see what happens
 		System.out.println(map);
 		
-	
+	//To be continued
 		
 	}
 
